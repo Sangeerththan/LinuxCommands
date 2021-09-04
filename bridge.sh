@@ -1,0 +1,1 @@
+#can assign ips to virtual machines with bridge config

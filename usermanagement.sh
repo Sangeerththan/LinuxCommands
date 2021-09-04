@@ -16,3 +16,6 @@ sudo groupadd nameofgrp
 
 ## add user to new grp 
 sudo usermod -a -G nameofgrp usr1
+
+#sign in as user
+su - username
