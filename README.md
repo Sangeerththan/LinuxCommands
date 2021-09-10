@@ -1,4 +1,4 @@
-This repository is intended for the unix blogs createed in medium and the commands are explained in the  series of blogs below.
+This repository is intended for the unix blogs created in medium and the commands are explained in the  series of blogs below.
 
 
 1.[Blog Part -1](https://medium.com/@sangeerththan.15/linux-commands-for-developers-i-6264d22457d1)
